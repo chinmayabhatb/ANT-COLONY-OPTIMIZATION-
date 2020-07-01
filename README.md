@@ -14,5 +14,4 @@ Ants are social insects. They live in colonies. The behavior of the ants is cont
 
 
 
-###data file##
-This file is taken from project github https://github.com/ppoffice/ant-colony-tsp
+
